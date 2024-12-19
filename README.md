@@ -1,1 +1,1 @@
-# yml-feed
+# xml-feed
